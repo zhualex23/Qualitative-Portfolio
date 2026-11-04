@@ -1,7 +1,5 @@
 # Quantitative Portfolio Project
 
-**Johns Hopkins University · 553.647 Quantitative Portfolio Theory & Performance Analysis · Spring 2026 · Group 3**
-
 A GitHub-ready, research-focused Python recreation of the project's four ETF strategies, backtest workflow, performance metrics, weight histories, and charts. The strategy mechanics are reconstructed from the final presentation, the executed project draft, and the RFP response.
 
 ## Historical results reported in the final presentation
