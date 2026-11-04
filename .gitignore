@@ -1,0 +1,12 @@
+__pycache__/
+.pytest_cache/
+*.py[cod]
+.venv/
+*.egg-info/
+build/
+dist/
+.ipynb_checkpoints/
+data/*.csv
+!data/example_schema.csv
+results/generated/
+.DS_Store
